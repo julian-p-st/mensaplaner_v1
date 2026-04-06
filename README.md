@@ -148,9 +148,11 @@ Pasta in Tomaten - Broccolisoße;2025-06-10;3.2;856.0;30.0;98.0;22.0;VEGETARIAN
 
 ## Notes
 
-- Only **today's and future** dates are available via the API — historical menus cannot be retrieved
+- Only **today's and future** dates are available via the API (historical menus cannot be retrieved)
+- Only **german** available as a language option
 - API and file errors are surfaced to the user via dialogs
 - The UI stays fully usable at any window size
+- **JavaDoc** available for most of the methods for further information
 
 ---
 
